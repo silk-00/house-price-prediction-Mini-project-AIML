@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction System
+# 🏠 House Price Prediction System (under process - graphical data representation)
 
 A Machine Learning mini project that predicts house prices using Linear Regression.
 
@@ -40,6 +40,7 @@ python app_cli.py
 
 ## 📊 Dataset
 Housing.csv
+(Kaggle house prices dataset, https://www.kaggle.com/datasets/yasserh/housing-prices-dataset)
 
 ## 📌 Author
 Harsh Patel
