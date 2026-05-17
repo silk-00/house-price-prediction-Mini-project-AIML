@@ -13,21 +13,6 @@ A Machine Learning mini project that predicts house prices using Linear Regressi
 - Linear Regression
 - Supervised Learning
 
-## 📂 Project Structure
-
-HousePricing/
-│
-├── app.py
-├── app_cli.py
-├── ng.py
-├── Housing.csv
-│
-├── templates/
-│ └── index.html
-│
-├── README.md
-└── .gitignore
-
 ## ⚙️ Technologies Used
 - Python
 - Flask
